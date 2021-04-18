@@ -6,7 +6,7 @@ The the main file is a section of the Gambia Integrated Household Survey (2015) 
 
 The second is an excel file that I created in order to decode the categorical variables from numericals to strings that can be understood. The file contains multiple sheets for multiple different variable keys.
 
-Method: I used the Pandas Library in order to complete this project and also completed basic summary statistics and one history to complete the project
+Method: I used the Pandas Library in order to complete this project and also completed basic summary statistics and one histogram to complete the project
 
 **Conclusion**: I was successful in gathering the data I needed, creating a variable key for my data because it was not available to me, dealing with null values, and shaping and joining my different data files together. Thank you!
 
