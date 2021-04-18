@@ -10,4 +10,4 @@ Method: I used the Pandas Library in order to complete this project and also com
 
 **Conclusion**: I was successful in gathering the data I needed, creating a variable key for my data because it was not available to me, dealing with null values, and shaping and joining my different data files together. Thank you!
 
-You can also access the file on its own webpage [here](https://nbviewer.jupyter.org/github/yfabureh/yfabureh.github.io/blob/main/Gambian%20Data%20Project.ipynb).
+You can also access the file on its own webpage [here](https://nbviewer.jupyter.org/github/yfabureh/yfabureh.github.io/blob/main/Gambian_Data_Project.ipynb).
